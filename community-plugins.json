@@ -11905,5 +11905,12 @@
         "author": "Khokim Mamarasulov",
         "description": "Manage ClickUp space from notes.",
         "repo": "hokim-m/click-up-x-obsidian"
+    },
+    {
+        "id": "ai-ollama-assistant",
+        "name": "AI Ollama Assistant",
+        "author": "Hadrien Cornier",
+        "description": "Simple AI assistant running locally that can help chat with your vault and summarize pages.",
+        "repo": "Hadrien-Cornier/ai-chat-obsidian"
     }
 ]
